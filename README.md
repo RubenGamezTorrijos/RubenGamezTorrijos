@@ -9,7 +9,7 @@ Siempre me ha guiado la convicción de que el **trabajo** y el **orden** son los
 - **I+D y consultoría:** Desarrollo de soluciones tecnológicas innovadoras para smart cities, energías renovables y proyectos a medida.
 - **Administración de sistemas:** Gestión de plataformas distribuidas, integración de infraestructuras y optimización de procesos.
 - **Desarrollo multiplataforma:** Creación de aplicaciones móviles y web con un enfoque en UX/UI y rendimiento.
-- **Emprendimiento:** Fundador de proyectos como GATORU ACADEMY®, enfocándome en la educación tecnológica y herramientas avanzadas.
+- **Emprendimiento:** Fundador de proyectos como GATORU ACADEMY®, enfocándome en la educación tecnológica y herramientas avanzadas OpenSource.
 
 ## 🧠 Filosofía de vida
 > "Construye y crea, pero no destruyas."
