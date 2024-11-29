@@ -23,7 +23,7 @@ Mi meta es seguir creciendo como profesional en el ámbito de la tecnología, co
 ---
 
 ### 🌐 Conéctate conmigo
-- 🌍 [**Mi sitio web**](https://rubengameztorrijos.com)
+- 🌍 [**Mi sitio web**](https://torrijos.me)
 - 💼 [**LinkedIn**](https://linkedin.com/in/rubengameztorrijos)
 - 👾 [**GitHub**](https://github.com/RubenGamezTorrijos)
 - 📹 [**YouTube**](https://youtube.com/@RubenGamezTorrijos)
