@@ -13,6 +13,7 @@ Siempre me ha guiado la convicción de que el **trabajo** y el **orden** son los
 - **Emprendimiento:** Fundador de proyectos como GATORU ACADEMY®, enfocándome en la educación tecnológica y herramientas avanzadas OpenSource.
 
 ## 🧠 Filosofía de vida
+> [!TIP]
 > "Construye y crea, pero no destruyas."
 
 Esta frase me inspira en cada proyecto que emprendo, reflejando mi compromiso por aportar valor, crear soluciones sostenibles y siempre buscar el lado constructivo de cada desafío.
