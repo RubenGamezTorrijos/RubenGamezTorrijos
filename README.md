@@ -1,3 +1,9 @@
+[![Visitas](https://komarev.com/ghpvc/?username=RubenGamezTorrijos&style=flat-square)
+](https://komarev.com/ghpvc/?username=RubenGamezTorrijso&style=flat-square&color=blue)
+![Seguidores](https://img.shields.io/github/followers/RubenGamezTorrijos?label=Seguidores&style=social)
+![GitHub stars](https://img.shields.io/github/stars/RubenGamezTorrijos?style=social)
+
+
 # 👨‍💻 About Me
 ![2024-11-29 01 05 42_Moderm_Minimalista_Github_RubenGamezTorrijos](https://github.com/user-attachments/assets/25e75e64-e0f8-4727-998f-99663b10af13)
 
