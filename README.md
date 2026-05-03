@@ -5,7 +5,8 @@
 
 
 # 👨‍💻 About Me
-![2024-11-29 01 05 42_Moderm_Minimalista_Github_RubenGamezTorrijos](https://github.com/user-attachments/assets/25e75e64-e0f8-4727-998f-99663b10af13)
+<img width="782" height="294" alt="Github_Cabecera_Animado_Calidad_Media_1a7cc2ff-8b36-4459-9214-47cf03264d07" src="https://github.com/user-attachments/assets/267d675a-c282-48c5-addb-d01f167df55d" />
+
 
 ## 🌟 Quién soy
 Apasionado por la **tecnología**, la **innovación** y la **resolución de problemas complejos**, cuento con más de 15 años de experiencia en el sector IT. Mi trayectoria incluye desde el desarrollo de aplicaciones multiplataforma hasta la implementación de soluciones avanzadas en monitorización, automatización y energías renovables.
